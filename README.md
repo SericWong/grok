@@ -44,23 +44,23 @@ Grok系列模型代表了xAI公司在AI大模型领域的最新突破，每个Gr
 
 | Grok模型 | 发布时间 | 主要Grok特点 |
 |----------|----------|--------------|
-| **Grok 4** | 2025年7月 | 旗舰级Grok模型，号称"全球最强AI大模型"，支持256K长上下文处理，是Grok系列的最新力作<mcreference link="https://chat.aimirror123.com" index="1">1</mcreference> |
-| **Grok 4 Code** | 2025年7月 | 专用代码版本Grok，用于代码生成、调试与逻辑解释，对标GitHub Copilot，是Grok在编程领域的专业应用<mcreference link="https://chat.aimirror123.com" index="1">1</mcreference> |
-| **Grok Studio** | 2025年4月 | 集成代码执行功能的Grok版本，支持Google云端硬盘整合，为Grok用户提供更完整的开发体验<mcreference link="https://claude-site.com" index="2">2</mcreference> |
-| **Grok 3.5系列** | 2025年 | 早期Grok版本，推理能力大升级，训练使用27.5万张NVIDIA H100，为后续Grok模型奠定基础<mcreference link="https://www.aitop100.cn/infomation/details/25018.html" index="3">3</mcreference> |
+| **Grok 4.1 Thinking** | 2025年11月 | 最新前沿模型，在LMArena排行榜居首位，对话智能、情感理解和现实世界任务能力全面升级，是Grok系列迄今最大幅度的一次升级<mcreference link="http://m.toutiao.com/group/7573938253724664363/" index="1">1</mcreference> |
+| **Grok 4.1** | 2025年11月 | Grok 4的升级版，速度更快、幻觉更少，在创意写作、事实准确性和响应速度上大幅提升，已向所有用户免费开放<mcreference link="http://m.toutiao.com/group/7573853386999693887/" index="2">2</mcreference> |
+| **Grok 4** | 2025年7月 | 旗舰级Grok模型，号称"全球最强AI大模型"，支持256K长上下文处理，是Grok系列的重要里程碑<mcreference link="https://chat.aimirror123.com" index="3">3</mcreference> |
+| **Grok 3.5系列** | 2025年 | 早期Grok版本，推理能力大升级，训练使用27.5万张NVIDIA H100，为后续Grok模型奠定基础<mcreference link="https://www.aitop100.cn/infomation/details/25018.html" index="4">4</mcreference> |
 
 ## ⚖️ Grok模型能力深度对比
 
 Grok系列模型各有侧重，了解不同Grok版本的特点有助于选择最适合的Grok模型。
 
-| 对比维度 | Grok 4 | Grok 4 Code | Grok Studio |
-|----------|--------|-------------|-------------|
-| **Grok发布日期** | 2025-07 | 2025-07 | 2025-04 |
-| **Grok主要优势** | 全球最强AI大模型，256K长上下文 | 专业Grok代码生成与调试 | Grok代码执行+云端整合 |
-| **Grok上下文长度** | 256K | 128K | 128K |
-| **Grok多模态能力** | ✅ 图文支持 | ✅ 代码专用 | ✅ 代码执行 |
-| **Grok适用场景** | 复杂文档分析、记忆任务 | 编程开发、代码调试 | 代码测试、云端协作 |
-| **Grok综合评价** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+| 对比维度 | Grok 4.1 Thinking | Grok 4.1 | Grok 4 |
+|----------|-------------------|----------|----------|
+| **Grok发布日期** | 2025-11 | 2025-11 | 2025-07 |
+| **Grok主要优势** | LMArena排行榜首位，情感理解强 | 速度更快、幻觉更少 | 256K长上下文，全球最强AI |
+| **Grok上下文长度** | 256K | 256K | 256K |
+| **Grok多模态能力** | ✅ 图文支持 | ✅ 图文支持 | ✅ 图文支持 |
+| **Grok适用场景** | 智能对话、创意写作 | 日常使用、快速响应 | 复杂文档分析 |
+| **Grok综合评价** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
 
 **Grok选择建议：** 根据具体需求选择Grok模型，Grok 4适合通用任务，Grok 4 Code适合编程，Grok Studio适合开发环境。
 
@@ -68,31 +68,31 @@ Grok系列模型各有侧重，了解不同Grok版本的特点有助于选择最
 
 选择合适的Grok模型是获得最佳AI体验的关键。以下是针对不同需求的Grok选择建议：
 
-- **想体验最强AI大模型？**
-  → 选 **Grok 4**，号称"全球最强AI大模型"，支持256K长上下文处理，是Grok系列的旗舰产品。<mcreference link="https://chat.aimirror123.com" index="1">1</mcreference>
+- **想体验最新最强AI大模型？**
+  → 选 **Grok 4.1 Thinking**，在LMArena排行榜居首位，对话智能、情感理解和现实世界任务能力全面升级，是Grok系列迄今最大幅度的一次升级。<mcreference link="http://m.toutiao.com/group/7573938253724664363/" index="1">1</mcreference>
 
-- **需要专业代码开发支持？**
-  → 选 **Grok 4 Code**，专用代码版本Grok，对标GitHub Copilot，为编程开发提供专业的Grok支持。<mcreference link="https://chat.aimirror123.com" index="1">1</mcreference>
+- **需要快速响应和低幻觉体验？**
+  → 选 **Grok 4.1**，速度更快、幻觉更少，在创意写作、事实准确性和响应速度上大幅提升，已向所有用户免费开放。<mcreference link="http://m.toutiao.com/group/7573853386999693887/" index="2">2</mcreference>
 
-- **需要代码执行和云端协作？**
-  → 尝试 **Grok Studio**，集成代码执行功能的Grok版本，支持Google云端硬盘整合，提供完整的Grok开发体验。<mcreference link="https://chatgpt-mirrors.com" index="2">2</mcreference>
+- **需要稳定可靠的AI助手？**
+  → 选择 **Grok 4**，旗舰级Grok模型，支持256K长上下文处理，是Grok系列的重要里程碑。<mcreference link="https://chat.aimirror123.com" index="3">3</mcreference>
 
 - **关注时事评论与社交媒体？**
-  → 选择 **Grok 4**，实时联网搜索，整合最新资讯，充分发挥Grok在信息处理方面的优势。<mcreference link="https://chat.banan.com" index="4">4</mcreference>
+  → 选择 **Grok 4.1**，实时联网搜索，整合最新资讯，充分发挥Grok在信息处理方面的优势。<mcreference link="https://chat.banan.com" index="4">4</mcreference>
 
 - **需要长期稳定的Grok服务？**
   → 选择艾米平台等信誉良好的Grok镜像站，确保Grok模型的稳定性和更新及时性。
 
-## ✨ Grok 4 核心优势深度解析
+## ✨ Grok 4.1 核心优势深度解析
 
-Grok 4作为Grok系列的旗舰产品，具备多项突破性优势，使其在AI大模型领域脱颖而出：
+Grok 4.1作为Grok系列的最新升级产品，具备多项突破性优势，使其在AI大模型领域脱颖而出：
 
-- **实时联网能力：** Grok 4背靠X平台，实时获取最新资讯，整合时事热点，充分发挥Grok在信息处理方面的优势<mcreference link="https://chat.write360.cn" index="4">4</mcreference>
-- **幽默对话风格：** Grok理解互联网俚语与段子，5种情感化声音模式，让Grok对话更加生动有趣<mcreference link="https://grok-tool.com" index="1">1</mcreference>
-- **256K超长上下文：** Grok 4支持256K超长上下文处理，能够处理复杂文档分析与记忆任务，是Grok系列的重要突破<mcreference link="https://gemini-tool.com" index="1">1</mcreference>
-- **实际应用表现：** Grok 4在Vending Benchmark测试中表现优异，净资产是之前最高模型的两倍，证明Grok在实际应用中的强大能力<mcreference link="https://claude-site.com" index="5">5</mcreference>
-- **技术前沿地位：** Grok代表xAI AI技术的最新突破，是Grok系列模型的技术巅峰
-- **Grok生态完善：** 配合Grok 4 Code和Grok Studio，形成完整的Grok产品生态，满足不同用户需求
+- **LMArena排行榜首位：** Grok 4.1在LMArena排行榜上超越所有对手，拿下排行榜第一，是当前最强大的AI大模型<mcreference link="http://m.toutiao.com/group/7574014244916691499/" index="1">1</mcreference>
+- **对话智能升级：** Grok 4.1在对话智能、情感理解和现实世界任务能力上全面升级，是Grok系列迄今最大幅度的一次升级<mcreference link="http://m.toutiao.com/group/7573938253724664363/" index="2">2</mcreference>
+- **速度更快、幻觉更少：** Grok 4.1在响应速度上大幅提升，同时减少了幻觉现象，提供更可靠的AI体验<mcreference link="http://m.toutiao.com/group/7573853386999693887/" index="3">3</mcreference>
+- **创意写作能力突出：** Grok 4.1在创意写作方面表现优异，直逼GPT-5.1水平，适合各种创作场景<mcreference link="http://m.toutiao.com/group/7573996178254168622/" index="4">4</mcreference>
+- **实时联网能力：** 背靠X平台，实时获取最新资讯，整合时事热点，充分发挥Grok在信息处理方面的优势<mcreference link="https://chat.write360.cn" index="5">5</mcreference>
+- **Grok生态完善：** 配合Grok 4.1 Thinking，形成完整的Grok产品生态，满足不同用户需求
 
 # 三、国产AI大模型竞争格局（2025版）
 
@@ -131,11 +131,11 @@ Grok 4作为Grok系列的旗舰产品，具备多项突破性优势，使其在A
 
 ## 🎯 Grok核心价值总结
 
-- **Grok 4**开启了"实时联网AI"新时代，号称"全球最强AI大模型"，是Grok系列的技术巅峰<mcreference link="https://chat.aimirror123.com" index="1">1</mcreference>
-- **Grok实时联网搜索**功能带来革命性突破，整合最新资讯，充分发挥Grok在信息处理方面的优势<mcreference link="http://m.toutiao.com/group/7491997527491838498/" index="4">4</mcreference>
-- **Grok 4 Code**专业代码版本，对标GitHub Copilot，为编程开发提供专业的Grok支持<mcreference link="https://chat.aimirror123.com" index="1">1</mcreference>
-- **Grok Studio**集成代码执行功能，为Grok用户提供完整的开发体验
-- 国产大模型正快速追赶，在特定领域实现超越，但Grok在实时联网和幽默对话方面仍具优势
+- **Grok 4.1 Thinking**在LMArena排行榜居首位，是当前最强大的AI大模型，对话智能、情感理解和现实世界任务能力全面升级<mcreference link="http://m.toutiao.com/group/7573938253724664363/" index="1">1</mcreference>
+- **Grok 4.1**速度更快、幻觉更少，在创意写作、事实准确性和响应速度上大幅提升，已向所有用户免费开放<mcreference link="http://m.toutiao.com/group/7573853386999693887/" index="2">2</mcreference>
+- **Grok 4**开启了"实时联网AI"新时代，号称"全球最强AI大模型"，是Grok系列的重要里程碑<mcreference link="https://chat.aimirror123.com" index="3">3</mcreference>
+- **Grok实时联网搜索**功能带来革命性突破，整合最新资讯，充分发挥Grok在信息处理方面的优势<mcreference link="https://chat.banan.com" index="4">4</mcreference>
+- 国产大模型正快速追赶，在特定领域实现超越，但Grok在实时联网和情感理解方面仍具优势
 
 ## 💡 Grok使用建议
 
